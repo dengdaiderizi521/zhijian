@@ -1,7 +1,22 @@
 # zhijian
 至简PHP开源框架
 
-欢迎您下载使用至简PHP开源框架初学版2.0
+感谢您下载使用至简PHP开源框架初学版2.0
+
+##安装使用说明：
+
+使用查询字符串的方式访问
+
+	http://example.com?c=home&m=index&_param=other
+
+	c表示controller, m表示method
+
+使用段的方式(需开启Apache的mod_rewrite.so)
+
+__需注意:从第三个段开始之后的所有内容均会传递给`_param`__
+
+	http://example.com/home/index/other
+	
 
 ©www.php32.com版权所有
 
