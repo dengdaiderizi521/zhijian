@@ -3,8 +3,7 @@
   * 至简PHP开源框架
   * 版本：至简初学版
   * 官方网站：http://www.php32.com
-  * 官方论坛/帮助中心：http://bbs.php32.com
-  * 日期：2013-10-19
+  * 日期：2015-05-01
   * 示例文件，如果执行请修改方法中的table_name为真实表名
   */
 class HomeModel extends BaseModel {
