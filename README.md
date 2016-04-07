@@ -18,7 +18,7 @@ __需注意:从第三个段开始之后的所有内容均会传递给`_param`__
 	http://example.com/home/index/other
 	
 
-©www.php32.com版权所有
+©php.zhijian.cc(官网正在构建当中)版权所有
 
 至简PHP开源框架遵循Apache2开源协议发布。Apache Licence是著名的非盈利开源组织Apache采用的协议。
 
@@ -26,4 +26,4 @@ __需注意:从第三个段开始之后的所有内容均会传递给`_param`__
 
 如果您的项目有使用到mysql数据库，请到baseModel中设置数据库服务器信息。我们有提供示例。
 
-如有疑问可以到至简PHP开源框架官网：http://www.php32.com 获得帮助
+如有疑问可以到至简PHP开源框架官网：http://php.zhijian.cc 获得帮助
