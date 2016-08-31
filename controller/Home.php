@@ -2,7 +2,7 @@
 /**
   * 至简PHP开源框架
   * 版本：至简初学版
-  * 官方网站：http://www.php32.com
+  * 官方网站：https://github.com/dengdaiderizi521/zhijian
   * 日期：2015-05-01
   * 示例文件，如果需要测试数据库，请解开调取model的注释，并在baseModel中设置数据库信息
   */
